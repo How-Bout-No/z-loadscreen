@@ -7,7 +7,7 @@ My custom fork of **z-loadscreen**...
 * Added an Info Section
 * Made Switching From Logo to Plaintext Much Simpler
 ## __Installation__
-1. Download [Here](z-loadscreen/archive/master.zip).
+1. Download [Here](https://github.com/How-Bout-No/z-loadscreen/archive/master.zip).
 2. Add `start z-loadscreen` to your server.cfg
  ## __Preview__
  https://youtu.be/fQqR_QEaXQQ
