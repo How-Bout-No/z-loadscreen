@@ -10,6 +10,7 @@ files {
     'config.js',
     'app.js',
     'config.css',
+    'animate.css',
     'imgs/bg0.png', 
     'imgs/bg1.png', 
     'imgs/bg2.png', 

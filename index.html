@@ -4,6 +4,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="stylesheet" href="config.css" type="text/css">
     <link rel="stylesheet" href="stylesheet.css" type="text/css">
+    <link rel="stylesheet" href="animate.css" type="text/css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
@@ -14,18 +15,17 @@
     <div class='blur' id="bg">
         <!-- ADD your background images here (same format) and make sure to add it in __resource.lua  -->
     </div>
-    <div id="blur"></div>
-    <p id="header"></p>
-    <p id="text"></p>
+	<div id="blur" class="animated fadeInHalf delay-1s"></div>
+    <p id="header" class="animated fadeInRight delay-2s"></p>
+    <p id="text" class="animated fadeInRight delay-3s"></p>
     <h2 id="title"></h2>
     <!-- Your logo below -->
-    <img class="logo" id="logo" src="imgs/logo.png">
+    <img class="logo animated fadeInLeftBig" id="logo" src="imgs/logo.png">
     <br>
-    <div class="loadbar">
+    <div class="loadbar animated fadeInUp delay-3s">
         <div class="yeet"></div>
     </div>
 
-    </div>
 
     <script src="config.js"></script>
     <script src="app.js"></script>
