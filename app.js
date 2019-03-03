@@ -57,8 +57,6 @@ var thisCount = 0;
 const handlers = {
     startInitFunctionOrder(data) {
         count = data.count;
-
-        document.querySelector('.letni h3').innerHTML += [data.type][data.order - 1] || '';
     },
 
     initFunctionInvoking(data) {
@@ -68,8 +66,6 @@ const handlers = {
 
     startDataFileEntries(data) {
         count = data.count;
-
-        document.querySelector('.letni h3').innerHTML += "\u{1f358}";
     },
 
     performMapLoadFunction(data) {
@@ -80,7 +76,6 @@ const handlers = {
     },
 
     onLogLine(data) {
-        document.querySelector('.letni p').innerHTML = data.message + "..!";
     }
 };
 
