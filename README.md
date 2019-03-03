@@ -75,8 +75,9 @@ var config = {
 - The Transition Intervals
 - Header + text info color
 ## __Support__
-I may not be able to help out since this is mainly a personal thing, but if you think there is a problem feel free to open a new issue :)
-If you want help for the original z-loadscreen, ThatZiv has a [Discord Server](https://discord.gg/yWddFpQ) for support.
+You can either open a new issue or contact me on Discord: `How Bout No#7581`
+
+If you want help for the *original* [z-loadscreen](https://github.com/ThatZiv/z-loadscreen), ThatZiv has a [Discord Server](https://discord.gg/yWddFpQ) for support.
 
 ## __Screenshots__
 ![alt-text](https://github.com/How-Bout-No/z-loadscreen/blob/master/ss/ss2.png?raw=true)
